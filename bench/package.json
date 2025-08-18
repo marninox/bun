@@ -10,7 +10,7 @@
     "color": "^4.2.3",
     "esbuild": "^0.14.12",
     "eventemitter3": "^5.0.0",
-    "execa": "^8.0.1",
+    "execa": "^9.6.0",
     "fast-glob": "3.3.1",
     "fastify": "^5.0.0",
     "fdir": "^6.1.0",
